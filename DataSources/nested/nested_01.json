@@ -1,0 +1,14 @@
+{
+    "students": [
+        {
+            "student_id": 1,
+            "student_name": "Adrian",
+            "course": ["Math","Chemistry"]
+        },
+        {
+            "student_id": 2,
+            "student_name": "Jim",
+            "course": ["Math","Sports"]
+        }
+    ]
+}

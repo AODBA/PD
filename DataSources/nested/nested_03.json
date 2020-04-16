@@ -1,0 +1,29 @@
+{
+    "students": [
+        {
+            "student_id": "1",
+            "student_name": "Adrian",
+            "course": [
+                "Math",
+                "Chemistry"
+            ],
+            "contact": {
+                "mobile":12345,
+                "home":54321
+            }
+        },
+        {
+            "student_id": "2",
+            "student_name": "Jim",
+            "course": [
+                "Math",
+                "Sports"
+            ],
+            "contact":
+                     {
+                    "mobile":999999,
+                    "home":88888
+                }
+        }
+    ]
+}

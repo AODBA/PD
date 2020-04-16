@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "student_id": "1",
+            "student_name": "Adrian",
+            "course": [
+                "Math",
+                "Chemistry"
+            ],
+            "contact": [
+                12345,
+                54321
+            ]
+        },
+        {
+            "student_id": "2",
+            "student_name": "Jim",
+            "course": [
+                "Math",
+                "Sports"
+            ],
+            "contact": [
+                999999,
+                88888
+            ]
+        }
+    ]
+}
